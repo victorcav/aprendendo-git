@@ -1,0 +1,14 @@
+Hierarquia de pastas E21
+
+victor.cavalheiro
+	dev
+
+----- Comandos basicos git e bash
+como navegar entre pastas dentro de gitbash
+	** entrar na pasta
+		cd /c/victor.cavalheiro/dev
+	** voltar um nivel
+		cd ..
+
+ver contrudo pasta
+	* ls
