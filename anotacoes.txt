@@ -13,7 +13,7 @@ como navegar entre pastas dentro de gitbash
 ver contrudo pasta
 	* ls
 
-----------------------------------
+----------------------------------------------------------------------------------------
 Passo a passo para enviar um commit ao repositorio com comandos:
 
 1 passo: Escolher o caminho certo para a criacao do arquivo commit
@@ -23,4 +23,11 @@ Passo a passo para enviar um commit ao repositorio com comandos:
 3 passo: Utilizar o comando git commit para adicionar um comentário 
 
 4 passo: utilizar o git push para modificar e colocar na nuvem o arquivo que esta no PC
+----------------------------------------------------------------------------------------
+
+
+git checkout <branch>
+git checkout -b <branch>
+
+
 
